@@ -1,0 +1,17 @@
+{
+  "name": "domproject",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^7.3.1",
+    "chromedriver": "^95.0.0"
+  },
+  "devDependencies": {
+    "selenium-webdriver": "^4.0.0"
+  }
+}

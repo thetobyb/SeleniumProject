@@ -6,7 +6,7 @@ let myFunction = () => {
     
     }
 
-    function changingColour() {
+    function colorChange() {
 
         var element = document.body;
         element.classList.toggle("Color-change")
